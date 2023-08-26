@@ -1,4 +1,4 @@
-# be-ignored
+# be-ignored [TODO]
 
 *[be-definitive](https://github.com/bahrus/be-definitive)* auto generates properties when defining a web component, based on the presence of itemprop attributes.
 
